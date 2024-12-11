@@ -234,5 +234,3 @@ The results demonstrate that the algorithm significantly reduces the walking cos
 2. **Field Measurement of Inter-Building Distances:** 
 
    The current fixed value for intra-building changes does not fully capture the complexity of real-world scenarios. Differences between classrooms, as well as the cost of moving between floors, could be incorporated into the dataset for more accurate results.
-   
-
